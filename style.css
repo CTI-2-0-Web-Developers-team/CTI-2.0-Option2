@@ -381,6 +381,8 @@ nav .navigation ul li a:hover {
 
   #menu-button {
     display: initial;
+    color: var(--white);
+    font-size: 1.6rem;
   }
 
   #menu-close {
