@@ -407,6 +407,7 @@ nav .navigation ul li a:hover {
     justify-content: flex-start;
     align-items: flex-start;
     transition: 0.3s ease;
+    position: fixed;
   }
 
   nav .navigation ul.active {
